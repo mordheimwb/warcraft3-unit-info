@@ -1,0 +1,12 @@
+{
+  "Grunt": {
+    "name": "Grunt",
+    "hit_points": 700,
+    "cooldown": 1.6,
+    "min_damage": 18,
+    "max_damage": 21,
+    "armor_type": "Heavy",
+    "weapon_type": "Normal",
+    "armor": 1
+  }
+}
