@@ -1,2 +1,1 @@
-# warcraft3-unit-info
-A repository for Warcraft 3 unit information website
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
